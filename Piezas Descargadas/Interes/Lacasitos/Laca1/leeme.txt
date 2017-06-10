@@ -1,0 +1,20 @@
+
+Instructions
+
+All parts are in Dispenser.scad file (Code is a little mess :) )
+
+Steps:
+
+    Print body.stl file.
+
+    Print base.stl file.
+
+    Print cilindro.stl file.
+
+    Print cover.stl file.
+
+    Screw body to base with M3 15mm screws and M3 nuts.
+
+    Needs an extra item, a 55 x 150 x 3 mm glass or methacrylate.
+
+Fill it with pills, cover it and have fun!

@@ -1,0 +1,13 @@
+
+Instructions
+
+This construction kit was designed in Autodesk 123D Design. Each .123d file is available for downloading and editing. The app is free for anyone to download http://apps.123dapp.com/design/.
+
+Each piece can be printed separately with out any rafts or support on a Replicator 2 (PLA). The pieces photographed were printed with the settings below.
+
+MakerWare Slicer (High Quality)
+
+20% Infill
+2 Shells
+.20 layer height
+90/120 travel

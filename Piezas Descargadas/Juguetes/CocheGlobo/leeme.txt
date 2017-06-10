@@ -1,0 +1,13 @@
+
+Instructions
+Extra Hardware needed:
+4 Small finishing nails (3d 1-1/4")
+4 m3 washer or similar tiny size
+
+1. Print car and wheels. Use low infill for MAXIMUM POWER-TO-WEIGHT RATIO!
+2. Test fit each wheel on a nail to make sure they spin freely. I had to use a fine round needle file to clean the holes a bit.
+3. Put small m3 washer on nail/axle between wheels and car body. This might not be necessary, but I had some washers and thought it was a good idea.
+4. Tap nails into guide holes.
+5. Put a balloon on and have a blast!
+
+I've only printed one of these so far and the nail holes were originally way too small. It was bending the nails trying to hammer them in! I had to drill out the holes a tiny bit for a good fit. I changed the script to make slightly larger holes, so hopefully this will work for other people without the need to drill.

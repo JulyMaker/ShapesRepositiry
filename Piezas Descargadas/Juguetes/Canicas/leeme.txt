@@ -1,0 +1,13 @@
+
+Instructions
+Print with a fairly low infill (15% is ok).
+No supports needed if your printer is dialed in nicely.
+
+Slic3r settings:
+0.35 nozzle
+perimeters 50mm/s
+Infill 90mm/s
+2 perimeters and 2 solid layers.
+Fill: 0.1 (10%) rectilinear
+
+approx print time for 1 piece: 1hr.

@@ -1,0 +1,8 @@
+
+Instructions
+
+You have to choose between a version with 2mm wall thickness and another with 3mm.
+I think the 2mm version is stable enough, but you have the choice.
+
+Further there is an edge, which can be glued at the plate to prevent the phone to drop off.
+It´s not really necessary, but it is a minimal effort.

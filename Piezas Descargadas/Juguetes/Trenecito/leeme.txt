@@ -1,0 +1,29 @@
+Instructions
+There are a variety of parts here. You can print as many as you want to build quite a big set. One overall comment is that these print best when centered on the platform. In Skeinforge click move option and then center to assure they are centered.
+
+Train Track Sections and Train Car Body
+I print these using raftless printing configured basically how they describe on the makerbot wiki (http://wiki.makerbot.com/thingomatic-doc:raftless). The modifications I made are: 1) I changed the Object First Layer Feed Rate Infill Multiplier (ratio) to be 0.5 2) I change the Object First Layer Feed Rate Permieter Multiplier (ratio) to 0.5 3) I changed the Object First Layer Flow Rate Multiplier (ratio) to 0.9 4) I disabled the Outline feature and generally delete the lines of gCode that do the warm up extrusion.
+
+These changes make the first layer go down slower and a little wider/thicker so that it adheres to the platform very well. I was noticing that the outline and warm-up extrusion generally left buggers or lines of plastic that then caused the early layers to peal off. The changes above fixed that.
+
+Update 9/2/2011: I just uploaded a 1/2 length straight track section. You'll need this if you have any 45 degree runs. I'll try to post a photo of this at some point.
+
+Update 9/10/2011: You can mirror the curved track around X axis to curve the other way.
+
+Update 9/24/2011: Car body is the version with a long hitch so it works well with both types of wheels. Curved track is a new stl file that actually prints like the drawing.
+
+Train Wheels
+I print these using a raft (believe me I've tried raftless a lot for these and it just ends in frustration). I found that the standard raft configuration has a gap between the raft lines which I found allowed the axle to flex too much in the X direction as it got tall. To remedy this I changed the Base infill density to .65 in skeinforge. This makes the raft lines closer together so that they actually touch and form a raft that is more solid in both the X and Y directions. I do also get rid of the interface layer, by setting the interface layers to 0 in the raft config in skeinforge. Once the wheels are printed I trimmed around the edge with scissors, leaving the raft attached (it makes a nice smooth outside, so rather than fight it, join it). You can then insert the axle in the wheel with the hole, it should fit snug and require a little pressure to fully seat it.
+
+Update 9/24/2011: There are 2 wheel versions, one that is small (labeld small) and one that is large. The larger wheels have a larger outside flange that does help the train stay on the tracks better, the inside wheel is still the same diameter so you can run both versions on the track in the same train just fine. I still find that the train doesn't stay on the track that well, my kids don't seem to care, 99% of the fun seems to be building and clipping stuff together, the actual train running is minimal... These trains have the flange reversed from a normal train (which has the flange on the inside of the wheel), would be tough to print this configuraiton with the axle attached.
+
+I've also made both wheels up here now stronger, by making the axle go all the way through the wheel, so that when it prints is it not just fused to the surface of the top layer of the wheel, but goes all the way through.
+
+"Tops"
+There are 4 different style car tops. I printed them all with the same raft configuration that the Train Wheels are printed with. They snap into place on top of the Train Body (there are two holes in the body and 2 pins on the top part). Mine fit firmly enough that again no glue was needed, but if you want to make them rugged it wouldn't hurt.
+
+Update 9/5/2011: I just posted 2 new cars a grain car and a coal car. See new photo for examples.
+
+Update 9/10/2011: I just uploaded 3 new car tops: A Passenger Car; A "Cage" Car; A Tender Car (hold coal and water for the engine). The Tender car is the most finiky of the car tops I've made when it comes to printing. I think its all the movment when it gets tall that tends to throw it off (snaps the raft free of the ABP), you might want to set the raft a big bigger to print this. I set my Raft Additional Margin over Length(%) to 1.3 and my Raft Margin (mm) to 6.0, which seemed to help.
+
+Update 9/24/2011: All car tops still are the same, however I've cleaned up the STL files (removed reversed faces, holes, etc... at least NetFabb doesn't complain). They don't really print any differently for me, but figured while I was cleaning things up I'd fix these too.

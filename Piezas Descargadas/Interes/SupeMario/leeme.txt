@@ -1,0 +1,5 @@
+
+Instructions
+This is not a very hard object to print so just set your printer up for a high quality print and print away.
+
+I have added a repaired copy that closed the holes using Netfabb Basic.

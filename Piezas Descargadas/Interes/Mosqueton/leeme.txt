@@ -1,0 +1,10 @@
+
+Instructions
+
+I made this with Tinkercad and openscad. Tinkercad for the body and scad for the screw threads. The body is all original, the screw threads I modified from a script by NielsJL in the Tinkercad Community. BTW his script is modified from an example in the SCAD program itself. It is the only thread design, and I mean the ONLY one that will produce a configurable nut and bolt that will print reliably in Nylon. I've tried pretty much everything out there.
+I can't print this model full size because its too big for my Afinia but at 60% it will easily hold 50lbs. If you guys print it at full, let me know how it works. The hinge on my carabiner opens sideways because support material becomes an issue if it is printed to open in the "normal" way. There are 2 STS files for the carabiner body: one for Nylon and one for abs. The difference is the tightness of the fit in the hinge. Its looser for Nylon because of the gooeyness of Nylon prints. Print the carabiner horizontally and the nut vertically..
+
+Links:
+Carabiner: https://tinkercad.com/things/10s1a7nTnW5
+Carabiner Nylon: https://tinkercad.com/things/3601FiA7jue
+NielsJL bolt: https://tinkercad.com/things/9SSHITeKzx2

@@ -1,0 +1,20 @@
+
+Instructions
+* Print the head, 2x segments in color A (25% infill, 1 shell raft)
+* Print the tail in color A (25% 1 shell)
+* Print the pins (80% infill, 1 shell, raft)
+* Print the LH and RH wheels in color B (30% infill, 1 shell)
+* Print the eyes and stalk-pins (80% infill, 1 shell, raft)
+
+The head segment has a small built-in raft. Peel it away before assembling the segments.
+
+If you hare having trouble with the wheel sticking to the build platform or have warping, check out this blag entry for some profile modifications that can take care of some of these issues:
+txoof.com/2012/04/makerbot-getting-better-adhesion.html
+
+Press fit the smaller pins into the segments and heads. Arrange the segments so the ugly saggy bits are on the bottom.
+
+Use a little bit of glue on the large pin that holds the wheels together and on the eye stalks.
+
+If the wheels don't roll easily, add a bit of electrical tape or vinyl tape around the outside of the wheels to add some friction.
+
+I'm still working on a better set of wheels that will have better traction.

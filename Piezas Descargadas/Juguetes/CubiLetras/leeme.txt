@@ -1,0 +1,10 @@
+Instructions
+You can print them in the original size, or you could down-size them and print your own name in blocks, to put on your desk or glue them to anything you like ;-)
+
+I have successfully printed my first cube, scale 1/1 (5 cm) on my ultimaker, with Cura:
+- 230 °C
+- 0,2 mm layer height
+- 0,8 mm Wall thickness
+- 0,6 mm Bottom/Top thickness
+- 15 % infill
+- 50 mm /S

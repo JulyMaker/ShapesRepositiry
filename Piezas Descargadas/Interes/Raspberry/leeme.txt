@@ -1,0 +1,20 @@
+
+Instructions
+Each layer should be approx 66mm by 99mm by 3mm thick when cut.
+
+Black and Green lines are essential cuts
+
+Orange lines are convenience cuts for better material release
+
+Red and Cyan lines are etched areas, but may be 'kiss' cut for speed
+
+The thin GPIO release section on layers 5 and 6 may warp during cutting under excessive laser heat.
+Practice makes perfect.
+
+This design may change as the design for the Raspberry Pi is refined and updated.
+
+You can buy the case direct from us at pibow.com to support our work, and the development of future projects.
+
+We've released this design under CC BY-NC-SA so those with access to tools can make their own Pibow and learn from the design to make exciting new things themselves.
+
+We've gone for non-commercial for now to protect our business from clones. Yes, we know we're not hardcore enough :)

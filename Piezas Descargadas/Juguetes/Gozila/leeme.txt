@@ -1,0 +1,15 @@
+Print Zilla_Plate1.stl & Zilla_Plate2.stl. Sand joints for good fit.
+
+Here is the BOM for the Puzzle is you would like to mix the colors up.
+Parts List
+godzilla_Bottom_frame.stl X 1
+godzilla_top_frame.stl X 1
+godzilla_cutout_leg2.stl X 2
+godzilla_claw.stl X 8
+godzilla_head.stl X 1
+godzilla_foot.stl X 2
+godzilla_claws_Toe2.stl X 4
+godzilla_cutout_arm3.stl X 2
+godzilla_body.stl X1
+
+Part my need sanding in joints

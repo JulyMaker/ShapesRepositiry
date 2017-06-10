@@ -1,0 +1,15 @@
+
+Instructions
+The ZIP includes the OpenSCAD source. The OpenSCAD source is not an example of good programming. Just hacked together for fun.
+
+There is a logo on the bottom, you can delete that or replace it with one you like.
+
+1) Print.
+
+2) You might need to sand or tweak the lid slightly. With my printer it goes together right off the build platform, but I had to tweak quite a bit to make that happen.
+
+3) Try to remember when you thought little boxes with parts in them were cool.
+
+4) After you give up, let a kid have it, they still think little boxes with parts in them are magic.
+
+5) Wonder if the little pieces will break the vacuum as they rattle through it.

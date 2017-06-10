@@ -1,0 +1,16 @@
+
+Instructions
+
+This is fairly simple to build.
+
+Print out the main body, The lens holder and 2 of the Head Clips.
+
+You will need 2x 25mm Lenses (Something like the ones you get out of toy binoculars). I actually got mine out of a telescope eyepiece. You can also purchase a pair of lenses from the opendive website. You may need to sand the lens holes down slightly to get a tight fit for your lenses.
+
+I have included the google sketchup files so if you need to modify the size of the holes for the lenses you can. You can also change the IPD to match your own so 3D viewing will be better.
+
+Once you have printed the part, just put them all together and use 2 elastic bands to hold your phone.
+
+Use 2 M3x20mm nuts and bolts to hold the lens holder in place once you have adjusted the focus to match your lenses. Then attach and elastic fabric band to use as a head strap.
+
+I also used some 13mm Draft excluder to pad out the edges of the item so it doesn't damage your phone or your face!! :-)

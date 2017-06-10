@@ -1,0 +1,15 @@
+
+Instructions
+1. Print the main STL file, you can split off the joint block if you want that a different colour (mine is black on a red X-wing).
+
+2. Possibly need to drill out the axle and gun holes to 3mm.
+
+3. Print the Accessories in a contrasting colour (glow in the dark PLA works REALLY well).
+
+4. Use 3mm PLA (or something similar) as axles
+
+5. Assemble pieces, its all pretty obvious. Longer guns go at the top as the holes are not blocked by a PLA axle.
+
+6. I Glued it all together with Superglue to be sure it stayed but it will probably stay together without this.
+
+7. Give to child ... watch them break it. (The derivative has yet to be tested on my nephew!)

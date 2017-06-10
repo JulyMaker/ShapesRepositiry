@@ -1,0 +1,60 @@
+
+Instructions
+
+Protips:
+
+Your printer will need to be capable of printing smooth 1 and 2 layer prints. Adjust your first layer settings to achieve solid layers with no surface debris or curling.
+
+If you have trouble with prints lifting, try the "beard" versions. trim off the "beard" when done.
+
+Layer height matters, as does fill ratio. Increasing the fill ratio for the fuselage will shift the CG. I am using .20 layer height - you will want to be as close to this as possible.
+
+If thinner layers are desired, use a factor of .2mm . My nozzle is .35mm, but a .5 should work fine. If your nozzle is smaller than .33, adjust the perimeters accordingly.
+
+The wing is printed with an axis - orthogonal fill orientation to minimize warping and maximize durability. The first layer should run lengthwise, the second spanwise.
+
+The wing must be very flat. Use care when removing the wing and tail sections from the bed. Peel up from the tips toward the fuselage with a thin blade or spatula, lifting only as much as possible to break free, being careful not to disturb the spanwise symmetry. If the wings are not perfectly symetrical when viewed from the front of the aircraft, adjustments will be required for proper performance.
+
+Glue the tail and canopy / hook into place with a tiny drop of superglue.
+
+Known working instructions:
+
+Print the Stratos using ABS. .20 layer height (or close) , 2 perimeters, and 2 solid layers, 20% line fill. Use a fill orientation of 0 degrees to the axis of the fuselage (natural axis of the print), so that the first layer runs forward and aft.
+
+Print the launcher with 3 perimeters (2 for .5 nozzle), 2 solid layers, and .35 line fill. Two perimeters are not enough, and will break. Scale the part to your preference - it is not layer critical.
+
+Glue the tail and canopy / hook into place with a tiny amount of superglue.
+
+Carefully bow the wings upward to give a slight rounded dihedral.
+
+Add a tiny bit of up elevator until the plane flies straight and level.
+
+left to its own devices, the plane will want to dive sharply under and fly upside down. A small up elevator adjustment will correct this tendency.
+
+Put on a nice stretchy (18-24" extended) rubber band on the launcher, and fly!
+
+Flight tips:
+
+As designed, the plane has nearly neutral stability, and can be trimmed to fly right side up or upside down if only a very small amount of up elevator is dialed in.
+
+If adjusted in this way it is possible to perform a half loop terminating in an slow, extended inverted glide, usually rolling to right side up due to the dihedral. If you can get it tuned for this, you can get some very long flights this way!
+
+A small amount of weight (3mm washer, etc) can be glued to the fuselage forward of the hook for more stability or longer flights.
+
+For thermalling, keep it as light as possible. Adjust for circling flight of 50 - 75 foot radius. Trim for slowest possible flight without stalling, then in 30 - 45 minutes the control surfaces will have relaxed to close to being correct. Make tiny adjustments until maximum flight duration (not distance) is achieved. You will need a strong thermal (or micro-thermal) to gain altitude, as this is a tiny model, with a short wingspan. I have had some luck in parking lots and ridge lift situations.
+
+Protip by Apexio (from comments below) : "Managed to thermal one a few times yesterday... Adding under camber and a good amount of dihedral to the wing makes a night and day difference in flight performance. "
+
+Except in extreme cases, do not bend ailerons in the wing. Use the elevators as elevons instead. Using the rudder will cause side-slip drag, and will result in shorter flights. If the model seems to be skidding, use the rudder to align the fuselage to the direction of flight, then elevon tweaking to get straight and level or any other desired flight profile.
+
+A neat trick is to adjust the pane for straight looping flight, then launch at about a 30 degree roll angle, slightly upward. Keep adjusting launch and control profiles until the plane circles around so that you can catch it.
+
+The plane can be scaled to 66% and printed at .15, or 150% at .30 with reasonable results. The 150% will require additional weight at the nose.
+
+Other materials and layer heights may work as well, please post your results!
+
+Update :
+
+Prints fine with PLA. Extra care needed during removal. Nominally heavier. Works but is less durable and harder to glue - not recommended if you can use ABS.
+
+Added "bearded" versions to facilitate printing in Polycarbonate, Nylon, or ABS on unheated beds. Please leave feedback on how this works!

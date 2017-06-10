@@ -1,0 +1,8 @@
+
+Instructions
+I searched the thingiverse for a printable Connect Four game. I found a very beautiful game here: thingiverse.com/thing:1507 , but none that was printable.
+Rules for the game here: en.wikipedia.org/wiki/Connect_four
+
+Print one board and 42 tokens. There should be 21 tokens of two dirrenent colours. I used a raft when printing the board. The board does come out fine, but some sanding/adjustment is neccesary to clean up the tokens. At least on my printer.
+
+Created in autodesk inventor (files in zip), printed on makerbot thing-o-matic

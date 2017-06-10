@@ -1,0 +1,9 @@
+
+Instructions
+1. Print
+2. Pick up Sporknife
+3. Grab random food object
+4. Eat random food object with said Sporknife
+5. Repeat until satisfied.
+
+You will need to re-orientate or turn on supports to print this on a MakerBot or the like.
