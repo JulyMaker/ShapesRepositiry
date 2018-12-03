@@ -5,8 +5,8 @@
 
 /*[Size and shape]*/
 top_diameter    = 90; // [5:1:200]
-middle_diameter =  15; // [5:1:200]
-bottom_diameter =  10; // [5:1:80]
+middle_diameter =  25; // [5:1:200]
+bottom_diameter =  13; // [5:1:80]
 height          = 100; // [20:1:300]
 wall            =   2; // [1:0.05:10]
 neck_ratio      =   1.2; // [1:0.05:3]
