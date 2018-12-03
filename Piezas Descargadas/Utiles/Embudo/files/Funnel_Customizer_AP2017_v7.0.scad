@@ -4,12 +4,12 @@
 // v7.0 7/2017
 
 /*[Size and shape]*/
-top_diameter    = 120; // [5:1:200]
-middle_diameter =  30; // [5:1:200]
-bottom_diameter =  18; // [5:1:80]
-height          = 160; // [20:1:300]
-wall            =   3; // [1:0.05:10]
-neck_ratio      =   1.6; // [1:0.05:3]
+top_diameter    = 90; // [5:1:200]
+middle_diameter =  15; // [5:1:200]
+bottom_diameter =  10; // [5:1:80]
+height          = 100; // [20:1:300]
+wall            =   2; // [1:0.05:10]
+neck_ratio      =   1.2; // [1:0.05:3]
 squish_ratio    =   1;   // [1:0.05:2]
 
 /*[Optional features]*/
@@ -29,10 +29,8 @@ module funnel()
             union()
             {
                 base_funnel(0,height,neck_ratio);   //external shell
-                if(create_vent == "yes") vent();
-                
+                if(create_vent == "yes") vent();        
                 if(handle_length > 0) handle(handle_length);
-
             }
         
             translate([0,0,-wall/10])
@@ -59,9 +57,9 @@ module base_funnel(wall=0, height=100, neck_ratio=1)
     }
     else
     {
-        cylinder(d=top_diameter-2*wall, height*1/(3*neck_ratio)-wall/100, $fn=max([top_diameter,100]));
-        translate([0,0,height*1/(3*neck_ratio)-wall/50]) 
-             cylinder(d1=top_diameter-2*wall, d2=middle_diameter-2*wall, height*1/(3*neck_ratio)+wall/50, $fn=max([top_diameter,100]));
+        cylinder(d=top_diameter-2*wall, height*0.5/(3*neck_ratio)-wall/100, $fn=max([top_diameter,100]));
+        translate([0,0,height*0.5/(3*neck_ratio)-wall/50]) 
+             cylinder(d1=top_diameter-2*wall, d2=middle_diameter-2*wall, height*1.5/(3*neck_ratio)+wall/50, $fn=max([top_diameter,100]));
         translate([0,0,height*2/(3*neck_ratio)-wall/100]) 
              cylinder(d1=middle_diameter-2*wall, d2=bottom_diameter-2*wall, height*(1-2/(3*neck_ratio))+wall/5, $fn=max([top_diameter,100]));
     }
@@ -127,7 +125,7 @@ module vent()
                     // middle of funnel high walls
                     translate([0,-vent_size/2,2*height/(3*neck_ratio)]) cube([middle_diameter/2+vent_overhang,vent_size,wall/20]);
                     // top of funnel high walls
-                    translate([0,-vent_size/2,height/(3*neck_ratio)]) cube([top_diameter/2-1.5*wall,vent_size,wall/20]);
+                    translate([0,-vent_size/2,0.6*height/(3*neck_ratio)]) cube([top_diameter/2-1.5*wall,vent_size,wall/20]);
                 }
         }
         else  
