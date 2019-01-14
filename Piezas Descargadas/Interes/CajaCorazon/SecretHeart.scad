@@ -4,9 +4,9 @@ assembly();
 //animation();
 
 //First word
-word1="";
+word1="july";
 //Second word
-word2="";
+word2="raquel";
 //Height of words
 fontsize=6;
 Font = "write/Letters.dxf";//["write/Letters.dxf":Basic,"write/orbitron.dxf":Futuristic,"write/BlackRose.dxf":Fancy]
