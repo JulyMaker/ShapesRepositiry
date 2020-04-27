@@ -5,18 +5,18 @@
 
 /*[Size and shape]*/
 top_diameter    = 90; // [5:1:200]
-middle_diameter =  25; // [5:1:200]
-bottom_diameter =  13; // [5:1:80]
-height          = 100; // [20:1:300]
-wall            =   2; // [1:0.05:10]
-neck_ratio      =   1.2; // [1:0.05:3]
+middle_diameter =  22; // [5:1:200]
+bottom_diameter =  9; // [5:1:80]
+height          = 120; // [20:1:300]
+wall            =   1.6; // [1:0.05:10]
+neck_ratio      =   1.4; // [1:0.05:3]
 squish_ratio    =   1;   // [1:0.05:2]
 
 /*[Optional features]*/
 handle_length   = 1.5;      // [0:0.5:4]
 create_vent     = "yes";  // [yes, no]
 high_wall       = "yes";  // [yes, no]
-slanted_tip     = "yes";  // [yes, no]
+slanted_tip     = "no";  // [yes, no]
 
 rotate([0,0,180])
 funnel();
@@ -116,7 +116,7 @@ module vent()
                 hull()
                 {
                     // bottom of funnel high walls
-                    translate([0,-vent_size/2,height-wall/4]) cube([bottom_diameter/2,vent_size,wall/20]);
+                    translate([0,-vent_size/2,height-wall/4]) cube([bottom_diameter/2.5,vent_size,wall/20]);
                     // middle of funnel
                     translate([0,-vent_size/2,2*height/(3*neck_ratio)]) cube([middle_diameter/2+vent_overhang,vent_size,wall/20]);
                 }
